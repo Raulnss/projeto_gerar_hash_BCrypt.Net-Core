@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\escola\\progama\u00E7\u00E3o\\testeCS\\console\\gerador_de_hash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4BC7E2-4726-43C6-AD7C-A81E54F36761}|gerador_de_hash.csproj|c:\\escola\\progama\u00E7\u00E3o\\testecs\\console\\gerador_de_hash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4BC7E2-4726-43C6-AD7C-A81E54F36761}|gerador_de_hash.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\escola\\progama\u00E7\u00E3o\\testeCS\\console\\gerador_de_hash\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\escola\\progama\u00E7\u00E3o\\testeCS\\console\\gerador_de_hash\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:29:41.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

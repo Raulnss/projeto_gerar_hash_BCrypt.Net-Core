@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVgpvO95oeU=",
+  "success": true,
+  "projectFilePath": "C:\\escola\\progamação\\testeCS\\console\\gerador_de_hash\\gerador_de_hash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rauln\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

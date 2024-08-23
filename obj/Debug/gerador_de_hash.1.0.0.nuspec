@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>gerador_de_hash</id>
+    <version>1.0.0</version>
+    <authors>gerador_de_hash</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="66ed58adbfd385c4818aa020a19245297547077c" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BCrypt.Net-Core" version="1.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\escola\progamação\testeCS\console\gerador_de_hash\bin\Debug\net8.0\gerador_de_hash.runtimeconfig.json" target="lib\net8.0\gerador_de_hash.runtimeconfig.json" />
+    <file src="C:\escola\progamação\testeCS\console\gerador_de_hash\bin\Debug\net8.0\gerador_de_hash.dll" target="lib\net8.0\gerador_de_hash.dll" />
+  </files>
+</package>
